@@ -10,6 +10,7 @@ Personal training + nutrition log.
 | Calories, protein, how to adjust | [plan/nutrition.md](plan/nutrition.md) |
 | Creatine + the rest | [plan/supplements.md](plan/supplements.md) |
 | Daily session logs | [log/](log/) — copy `log/_template.md` |
+| Daily AI news digest (separate side project) | [ai-radar/](ai-radar/) |
 
 ## Where I'm at (2026-09-17)
 
